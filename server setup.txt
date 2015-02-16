@@ -1,0 +1,6 @@
+
+On Ubuntu 14
+
+To install ldap
+
+sudo apt-get install php5-ldap
